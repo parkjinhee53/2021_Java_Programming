@@ -1,7 +1,5 @@
 /*
  * 과제:J3
- * 이름: 박진희
- * 학번: 202014015
  */
 public class Airplane {
 	String model; // 비행기 모델을 나타내는 필드
